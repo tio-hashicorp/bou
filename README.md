@@ -4,6 +4,3 @@ https://get.replicated.com/airgap/#/terraformenterprise/2fc565b6978540eb54859a6f
 
 https://www.google.com/url?q=https://teams.microsoft.com/l/meetup-join/19%253ameeting_OWM0OWZjN2QtYjRhZC00MmUwLWE1YWEtYjViY2IzNTk1Y2Qw%2540thread.v2/0?context%3D%257b%2522Tid%2522%253a%25227e586855-d882-4339-9a56-032d0aa10991%2522%252c%2522Oid%2522%253a%252245a96bb4-2185-405e-8cd5-13275418e1f0%2522%257d&sa=D&source=calendar&ust=1631688700206734&usg=AOvVaw3eUMh8Mg68WJ1jwjuMBcbH
 
-https://vendor.replicated.com/saml?nonce=3VQZ-JEIJg930F3eoSqB3-6ZapK39-Dx
-
-https://teams.microsoft.com/l/meetup-join/19:meeting_OWM0OWZjN2QtYjRhZC00MmUwLWE1YWEtYjViY2IzNTk1Y2Qw@thread.v2/0?context={"Tid":"7e586855-d882-4339-9a56-032d0aa10991","Oid":"45a96bb4-2185-405e-8cd5-13275418e1f0"}
