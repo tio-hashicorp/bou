@@ -6,4 +6,5 @@ https://www.google.com/url?q=https://teams.microsoft.com/l/meetup-join/19%253ame
 
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzI4OTg3NmMtYzliMy00ZTY5LTljMDAtM2EzZjMzMDZmYTE1%40thread.v2/0?context=%7b%22Tid%22%3a%227e586855-d882-4339-9a56-032d0aa10991%22%2c%22Oid%22%3a%2245a96bb4-2185-405e-8cd5-13275418e1f0%22%7d>
 
-https://hashicorp.zoom.us/my/tbagio?pwd=dG5FVjFXQWF1Q1pKc3crVlFCSWJQQT08
+
+https://hashicorp.zoom.us/my/tbagio?pwd=dG5FVjFXQWF1Q1pKc3crVlFCSWJQQT09
